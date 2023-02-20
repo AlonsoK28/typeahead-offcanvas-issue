@@ -2,3 +2,9 @@
 .tt-suggestion {
   height: 3rem !important;
 }
+
+.tt-list {
+  border-color: #ccc !important;
+  /* // dropdown shadow example https: //codepen.io/connexo/pen/gmWjNJ */
+  box-shadow: 0 5px 13px #999;
+}
